@@ -1,2 +1,2 @@
 joo joo GitHub
-foo bbar
+foo bbar paikallinen
